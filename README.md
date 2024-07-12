@@ -22,8 +22,7 @@ This guide will help you explore the potential of RC-controlled planes using ESC
 
 You'll find the plans for the RC Plane in the plans folders of this repository, also find a detailed explanation of the components and their use in the ['tutorial'](./tutorial/tutorial.md) folder. Start building right away!
 
-- *Berkik 3 plans*
-- *credits: Paper Replika*
+- *Berkik 3 plans credits: Paper Replika*
 - *Schematic credits: Sky Hobbies Singapore*
 
 Build Smart🛠️✨
