@@ -20,9 +20,10 @@ This guide will help you explore the potential of RC-controlled planes using ESC
 10. Tape and Adhesive
 
 
-You'll find the plans for the RC Plane in the plans folders of this repository, also find a detailed explaination of the components and their use in the ['tutorial'](./tutorial/tutorial.md) folder. Start building right away!
+You'll find the plans for the RC Plane in the plans folders of this repository, also find a detailed explanation of the components and their use in the ['tutorial'](./tutorial/tutorial.md) folder. Start building right away!
 
-*Berkik 3 plans credits: Paper Replika*
-*Schematic credits: Sky Hobbies Singapore*
+- *Berkik 3 plans*
+- *credits: Paper Replika*
+- *Schematic credits: Sky Hobbies Singapore*
 
 Build Smart🛠️✨
